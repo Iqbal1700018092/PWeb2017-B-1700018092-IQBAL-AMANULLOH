@@ -1,0 +1,18 @@
+#kiri
+{
+width:50%;
+height:580px;
+background: url(wall1.jpg) no-repeat;
+-webkit-background-size: cover;
+ background-size: cover;
+float:left;
+}
+#kanan
+{
+width:50%;
+height:580px;
+background: url(wall2.jpg) no-repeat;
+-webkit-background-size: cover;
+background-size: cover;
+float:right;
+}
